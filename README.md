@@ -84,4 +84,4 @@ VoxPopuli de base:
 
 ## Practical application
 
-This was developed for and implemented in [FUTO Voice Input](https://voiceinput.futo.org) to significantly decrease latency with short dictations, especially on low-end devices. (Note: the update is still being rolled out, it may not be available immediately)
+This was developed for and implemented in [FUTO Voice Input](https://voiceinput.futo.org) (v1.3.2+), an Android voice input application, to significantly decrease latency with short dictations, especially on low-end devices.
