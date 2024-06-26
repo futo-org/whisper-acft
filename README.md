@@ -14,6 +14,8 @@ Try the finetuned models with `-ac`/`--audio-context` argument in whisper.cpp:
 
 We've not made versions for medium/large models, but you can make them yourself with the provided notebooks.
 
+We provide safetensor checkpoints on [HuggingFace](https://huggingface.co/collections/futo-org/whisper-acft-667c430f8de3a22b73151d74).
+
 ## Motive and explanation for anyone uninitiated
 
 The Whisper model is composed of two parts: the encoder which takes in 30 seconds of audio, and the decoder which outputs text.
